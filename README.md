@@ -86,10 +86,10 @@
 
 <h3 align="center">Atividade Recente</h3>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU-USUARIO&theme=gotham&hide_border=true&area=true" alt="Gráfico de Atividade" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KawanCostaNs&theme=gotham&hide_border=true&area=true" alt="Gráfico de Atividade" />
 </p>
 
 <h3 align="center">Minhas Contribuições (Animadas)</h3>
 <p align="center">
-  <img src="https://github.com/SEU-USUARIO/SEU-USUARIO/blob/output/github-contribution-grid-snake.svg" alt="Animação de Contribuições" />
+  <img src="https://github.com/KawanCostaNs/KawanCostaNs/blob/output/github-contribution-grid-snake.svg" alt="Animação de Contribuições" />
 </p>
