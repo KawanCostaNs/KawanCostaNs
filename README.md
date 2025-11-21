@@ -38,9 +38,13 @@
 
 ### ⚡ **Serviços e Expertise**
 
+<div align="center">
+
 | 🧩 **Ecossistema GLPI** | 🤖 **Automação & Integração** | 🌐 **Web & Infra** |
-| :--- | :--- | :--- |
+| :---: | :---: | :---: |
 | • Desenvolvimento de Plugins (PHP)<br>• Personalização de Core<br>• Regras de Negócio Avançadas<br>• Migração v9 ➝ v10 | • Fluxos Complexos no **n8n**<br>• Chatbots (Teams/WhatsApp)<br>• Microsoft Power Automate<br>• Webhooks & APIs | • Deploy em Linux/Docker<br>• Otimização de Banco MySQL<br>• Dashboards Gerenciais<br>• Front-end Responsivo |
+
+</div>
 
 ---
 
