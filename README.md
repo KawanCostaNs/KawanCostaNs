@@ -5,14 +5,11 @@
 <div align="center" style="margin-top: -230px; position: relative; z-index: 9;">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=1000&color=00FF99&center=true&vCenter=true&width=900&lines=GLPI+Master+%26+Architect;Automating+Workflows+(n8n+%2F+PowerAutomate);Full+Stack+Dev+(PHP+%7C+JS+%7C+SQL);Building+Scalable+Infrastructures" alt="Typing SVG" />
 </div>
-<br><br><br>
+<br><br>
 
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=KawanCostaNs&theme=gitdimmed&no-frame=true&margin-w=15&margin-h=15&row=1&column=7" alt="Trophies" />
-  </a>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KawanCostaNs&layout=compact&theme=transparent&hide_border=true&title_color=00FF99&text_color=c9d1d9&bg_color=0d1117" alt="Langs" />
 </div>
-<br>
 
 <div align="center">
   
@@ -64,8 +61,7 @@
   
   <br><br>
 
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=KawanCostaNs&show_icons=true&theme=transparent&hide_border=true&title_color=00FF99&text_color=c9d1d9&icon_color=00FF99&bg_color=0d1117&count_private=true" alt="Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KawanCostaNs&layout=compact&theme=transparent&hide_border=true&title_color=00FF99&text_color=c9d1d9&bg_color=0d1117" alt="Langs" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=KawanCostaNs&show_icons=true&theme=transparent&hide_border=true&title_color=00FF99&text_color=c9d1d9&icon_color=00FF99&bg_color=0d1117&count_private=true" alt="Stats" />
   
   <br>
 
