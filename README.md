@@ -47,11 +47,8 @@
 <div align="center">
   <h2>📊 Métricas do Desenvolvedor</h2>
   
-  <a href="https://github.com/KawanCostaNs">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=KawanCostaNs&show_icons=true&theme=transparent&hide_border=true&title_color=00FF99&text_color=c9d1d9&icon_color=00FF99&bg_color=0d1117&count_private=true" alt="Stats" />
-    
-    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KawanCostaNs&layout=compact&theme=transparent&hide_border=true&title_color=00FF99&text_color=c9d1d9&bg_color=0d1117" alt="Langs" />
-  </a>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=KawanCostaNs&show_icons=true&theme=transparent&hide_border=true&title_color=00FF99&text_color=c9d1d9&icon_color=00FF99&bg_color=0d1117&count_private=true" alt="Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KawanCostaNs&layout=compact&theme=transparent&hide_border=true&title_color=00FF99&text_color=c9d1d9&bg_color=0d1117" alt="Langs" />
   
   <br>
 
