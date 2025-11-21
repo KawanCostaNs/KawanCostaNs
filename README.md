@@ -1,86 +1,77 @@
 <div align="center">
-  <img src="./assets/header.gif" width="100%" style="border-radius: 10px; opacity: 0.8;" alt="Banner Tecnológico" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,30&height=280&section=header&text=&fontSize=90" width="100%"/>
+</div>
+
+<div align="center" style="margin-top: -240px; position: relative; z-index: 9;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=35&duration=3000&pause=1000&color=00FF99&center=true&vCenter=true&width=800&lines=GLPI+Solutions+Architect;Developer+PHP+%2B+JavaScript;Automation+Expert+(n8n+%26+Power+Automate);Building+Scalable+IT+Infrastructures" alt="Typing SVG" />
+</div>
+<br><br><br>
+
+<div align="center">
   
-  <br />
+  ## 👾 **System Initialized... Welcome, User.**
   
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF99&center=true&vCenter=true&width=600&lines=GLPI+Master;Desenvolvedor+de+Plugins;Automação+com+n8n+%26+Power+Automate;Full+Stack+PHP+%2B+JS" alt="Typing SVG" />
+  > *"A tecnologia só é útil se for invisível e eficiente."*
+  
+  Sou um desenvolvedor focado em **Gestão de TI e Hiperautomação**. Transformo processos manuais e burocráticos em fluxos inteligentes. Minha especialidade é o ecossistema **GLPI**, onde atuo desde a infraestrutura até o desenvolvimento de plugins complexos, integrando tudo via **n8n** e **Power Automate**.
+
+</div>
+
+---
+
+### 🛠️ **Mainframe & Ferramentas**
+
+<div align="center">
+
+  <img src="https://skillicons.dev/icons?i=php,js,html,css,mysql,linux,docker,git,vscode,postman&theme=dark" />
+  
+  <br><br>
+
+  <img src="https://img.shields.io/badge/GLPI-Expert_Dev-101010?style=for-the-badge&logo=linux&logoColor=00FF99&color=0d1117&border=00FF99" />
+  <img src="https://img.shields.io/badge/n8n-Workflow_Automation-EA4B71?style=for-the-badge&logo=n8n&logoColor=white&color=0d1117" />
+  <img src="https://img.shields.io/badge/Power_Automate-Flows-0066FF?style=for-the-badge&logo=microsoft-power-automate&logoColor=white&color=0d1117" />
+  <img src="https://img.shields.io/badge/Node.js-Backend-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&color=0d1117" />
+
+</div>
+
+---
+
+### 🚀 **Especialidades & Serviços**
+
+| 🧩 **Desenvolvimento GLPI** | 🤖 **Automação & Integração** | ⚙️ **Infraestrutura & DevOps** |
+| :--- | :--- | :--- |
+| • Criação de Plugins Customizados<br>• Regras de Negócio Complexas<br>• Migração de Versão (v9 ➝ v10)<br>• Dashboards & Metabase | • Fluxos no **n8n** (Webhook/API)<br>• Bots p/ Teams e WhatsApp<br>• Microsoft **Power Automate**<br>• Integração via API REST | • Dockerização de Ambientes<br>• Linux Server Hardening<br>• Otimização de MySQL<br>• Monitoramento de Serviços |
+
+---
+
+<div align="center">
+  <h2>📊 Dados do Repositório</h2>
+  
+  <a href="https://github.com/KawanCostaNs">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KawanCostaNs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KawanCostaNs&layout=compact&theme=dracula&hide_border=true&bg_color=0d1117"/>
   </a>
-</div>
-
-<div align="center">
-  <br />
-  <a href="SEU_LINKEDIN_AQUI">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:SEU_EMAIL_AQUI">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</div>
-
----
-
-### ⚡ **Sobre o Dev**
-
-> *"Automatizando o caos e estruturando processos."*
-
-Sou especialista em transformar a gestão de TI. Meu foco principal é **GLPI** (Gestão Livre de Parque de Informática), onde não apenas administro, mas **desenvolvo plugins personalizados** para estender suas funcionalidades. Além disso, conecto sistemas usando **n8n** e **Power Automate**, criando ecossistemas de TI autônomos e eficientes.
-
----
-
-### 🛠️ **Arsenal Tecnológico**
-
-<div align="center">
-
-| **Core Dev** | **GLPI & Infra** | **Automação & Dados** |
-| :---: | :---: | :---: |
-| ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) | ![GLPI](https://img.shields.io/badge/GLPI_Expert-101010?style=for-the-badge&logo=linux&logoColor=00FF99&color=black) | ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white) |
-| ![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) | ![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=microsoft-power-automate&logoColor=white) |
-| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) | ![JSON](https://img.shields.io/badge/API_Rest-000000?style=for-the-badge&logo=json&logoColor=white) |
-| ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | ![Server](https://img.shields.io/badge/Apache/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
+  
+  <br>
+  
+  <img src="https://github-profile-trophy.vercel.app/?username=KawanCostaNs&theme=gitdimmed&no-frame=true&margin-w=15&row=1" />
 
 </div>
 
 ---
 
-### 🚀 **O que eu faço?**
-
-<div align="left">
-
-🔥 **Desenvolvimento GLPI**
-- Criação de Plugins do zero (PHP/DB).
-- Customização de regras de negócio e comportamentos do sistema.
-- Adaptação de plugins legados (v9/v10) para versões atuais.
-
-🤖 **Automação de Processos (RPA/Workflow)**
-- Integração **GLPI ↔ WhatsApp** (via API/n8n).
-- Fluxos complexos no **Power Automate** para ambiente Microsoft 365.
-- Chatbots inteligentes para Service Desk.
-
-🌐 **Web & Full Stack**
-- Dashboards personalizados para monitoramento de TI.
-- Front-end responsivo para portais de atendimento.
-
-</div>
-
----
-
-### 📊 **Estatísticas do Universo**
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KawanCostaNs&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" height="160" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KawanCostaNs&layout=compact&theme=radical&hide_border=true&langs_count=6" height="160" alt="Langs" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KawanCostaNs&theme=radical&hide_border=true" alt="Streak" />
-</div>
-
----
-
-<div align="center">
-  <img src="./assets/footer.gif" width="60" />
-  <p><i>"Code is poetry, automation is art."</i></p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,30&height=150&section=footer&fontSize=90" width="100%"/>
+  
+  <div style="margin-top: -120px; position: relative; z-index: 9;">
+    <a href="LINKEDIN_URL" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=0A66C2" />
+    </a> 
+    <a href="mailto:SEU_EMAIL" target="_blank">
+      <img src="https://img.shields.io/badge/Gmail-Enviar_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=EA4335" />
+    </a>
+    <a href="SEU_SITE" target="_blank">
+      <img src="https://img.shields.io/badge/Portfólio-Visitar-000?style=for-the-badge&logo=firefox&logoColor=white&color=1e1e1e" />
+    </a>
+  </div>
 </div>
