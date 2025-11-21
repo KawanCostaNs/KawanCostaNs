@@ -81,14 +81,14 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,15&height=150&section=footer&fontSize=90" width="100%"/>
   
   <div style="margin-top: -110px; position: relative; z-index: 9;">
-    <a href="https://www.linkedin.com/in/SEU_LINKEDIN" target="_blank">
+    <a href="https://www.linkedin.com/in/kawan-costa-660566178/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=0A66C2" />
     </a> 
-    <a href="mailto:SEU_EMAIL@GMAIL.COM" target="_blank">
+    <a href="mailto:Kawancosta223@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/Email-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=EA4335" />
     </a>
-    <a href="https://SEU_PORTFOLIO.COM" target="_blank">
-      <img src="https://img.shields.io/badge/Portfólio-Ver_Projetos-000?style=for-the-badge&logo=firefox&logoColor=white&color=1e1e1e" />
+    <a href="https://github.com/KawanCostaNs?tab=repositories" target="_blank">
+      <img src="https://img.shields.io/badge/Projetos-Ver_Lista-000?style=for-the-badge&logo=github&logoColor=white&color=1e1e1e" />
     </a>
   </div>
 </div>
