@@ -19,9 +19,10 @@
 
 ---
 
-### 🛠️ **Stack & Ferramentas**
-
 <div align="center">
+  
+  ### 🛠️ **Stack & Ferramentas**
+  <br>
 
   <img src="https://skillicons.dev/icons?i=php,js,html,css,mysql,linux,docker,git,vscode&theme=dark" />
   
@@ -36,9 +37,10 @@
 
 ---
 
-### ⚡ **Serviços e Expertise**
-
 <div align="center">
+
+### ⚡ **Serviços e Expertise**
+<br>
 
 | 🧩 **Ecossistema GLPI** | 🤖 **Automação & Integração** | 🌐 **Web & Infra** |
 | :---: | :---: | :---: |
@@ -76,4 +78,4 @@
       <img src="https://img.shields.io/badge/Portfólio-Ver_Projetos-000?style=for-the-badge&logo=firefox&logoColor=white&color=1e1e1e" />
     </a>
   </div>
-</div>
+</div>dss
